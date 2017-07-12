@@ -11,7 +11,7 @@ Tasks to implement:
 
 
 # Bebop requirements
-* >100m Wi-Fi distance (https://community.parrot.com/t5/Bebop-Knowledge-Base/How-to-respect-Wi-Fi-regulations-and-optimize-range/ta-p/157028)
+* more than 100m Wi-Fi distance (https://community.parrot.com/t5/Bebop-Knowledge-Base/How-to-respect-Wi-Fi-regulations-and-optimize-range/ta-p/157028)
 * FreeFlight App (Pro version exist) for Android 4.2 (https://community.parrot.com/t5/Bebop-Knowledge-Base/Compatibility/ta-p/133880)
 
 # Links
