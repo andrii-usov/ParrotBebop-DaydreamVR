@@ -8,3 +8,7 @@ Tasks to implement:
 2. Display 2D video stream from Drone in 360
 3. Voice Activate Drone
 4. Face and Object Recognition
+
+
+# Links
+* Community site with knowledge base https://community.parrot.com/t5/Bebop-Drone/bd-p/Bebop_EN
