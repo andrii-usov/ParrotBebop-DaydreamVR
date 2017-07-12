@@ -17,3 +17,4 @@ Tasks to implement:
 # Links
 * Community site with knowledge base https://community.parrot.com/t5/Bebop-Drone/bd-p/Bebop_EN
 * VR Daydream SDK documentation https://developers.google.com/vr/daydream/overview
+* VR Daydream Samples: https://github.com/googlevr/gvr-android-sdk
